@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br><br><br>I’m Dumitru I reside in London, where I code the future.<br>I strive to merge my passion for technology and web development, utilising my expertise to create innovative and user-friendly web applications for clients around the world. In the constantly evolving landscape of software development
+<br>I’m Dumitru I reside in London, where I code the future.
+<br>I strive to merge my passion for technology and web development, utilising my expertise to create innovative and user-friendly web applications for clients around the world. In the constantly evolving landscape of software development
 
 
 ## 🌐 Socials:
