@@ -1,5 +1,5 @@
 # 👋 Hi I'm Dumitru 
-<br>I'm a Digital Craftsman. Instead of traditional tools, I use code and design programs. Just as an artist carefully paints each stroke, I put effort into every line of code and every design decision. I value details and always aim to produce top-notch digital work. Every project I tackle, I aim to make it the best it can be. Cheers!
+<br> A Digital Craftsman. Instead of traditional tools, I use code and design programs. Just as an artist carefully paints each stroke, I put effort into every line of code and every design decision. I value details and always aim to produce top-notch digital work. In every project I tackle, I aim to make it the best it can be. Cheers!
 
 
 ## 🌐 Socials:
